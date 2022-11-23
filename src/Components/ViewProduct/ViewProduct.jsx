@@ -14,7 +14,7 @@ const ViewProduct = ({ product }) => {
     return (
         <div>
             <div>
-               <h1>Description About that product</h1>
+                <h1>Description About that product</h1>
             </div>
             <Button onClick={eventBack}>Back</Button>
         </div >

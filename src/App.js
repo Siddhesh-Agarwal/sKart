@@ -7,7 +7,7 @@ import Home from './Components/Home/Home';
 // import Settings from './Components/Settings/Settings';
 import WishList from './Components/WishList/WishList';
 import SignInForm from './Components/Sign-in/Sign-in';
-import SignUp from './Components/Sign-out/Sign-out';
+import SignUp from './Components/Sign-up/Sign-up';
 import ProductCard from './Components/ProductCard/ProductCard';
 import TeammateCard from './Components/TeammateCard/TeammateCard';
 import Cart from './Components/cart/Cart';

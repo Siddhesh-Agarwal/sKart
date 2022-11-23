@@ -1,11 +1,12 @@
 import React from 'react'
+import {
+    Image
+} from '@chakra-ui/react'
 
 const Home = () => {
     return (
         <div>
-            <p>
-                hello world
-            </p>
+            <Image src='/img/banner.jfif'/>
         </div>
     )
 }

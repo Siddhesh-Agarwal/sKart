@@ -45,7 +45,7 @@ export default function ProductCard() {
                                     <Image
                                         borderTopRadius="md"
                                         src={product.image}
-                                        alt={product.brand + "'s " + product.name}
+                                        alt={`${product.brand}'s ${product.name}`}
                                         w="300px"
                                         h="300px"
                                     />
